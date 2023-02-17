@@ -18,4 +18,4 @@
 
 [GGPLOT2](https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf)
 
-
+[Tableau](https://s3.amazonaws.com/assets.datacamp.com/email/other/Tableau+Cheat+Sheet.pdf)
