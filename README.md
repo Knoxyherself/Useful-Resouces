@@ -6,6 +6,7 @@
 
 [Python](https://www.udemy.com/course/complete-python-bootcamp/)
 
+[R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
 
 ## - ✨2. Books✨
 
