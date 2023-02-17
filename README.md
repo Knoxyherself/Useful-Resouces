@@ -11,3 +11,11 @@
 
 
 ## - ✨3. Cheat Sheets✨
+
+[Markdown](
+
+[R Markdown](
+
+[GGPLOT2](
+
+
