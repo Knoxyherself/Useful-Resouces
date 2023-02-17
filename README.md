@@ -19,3 +19,5 @@
 [GGPLOT2](https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf)
 
 [Tableau](https://s3.amazonaws.com/assets.datacamp.com/email/other/Tableau+Cheat+Sheet.pdf)
+
+[PySpark](https://res.cloudinary.com/dyd911kmh/image/upload/v1676303379/Marketing/Blog/PySpark_RDD_Cheat_Sheet.pdf)
