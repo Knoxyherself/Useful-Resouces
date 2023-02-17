@@ -12,7 +12,7 @@
 
 ## - ✨3. Cheat Sheets✨
 
-[Markdown](
+[Markdown](https://www.markdownguide.org/cheat-sheet/)
 
 [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html)
 
